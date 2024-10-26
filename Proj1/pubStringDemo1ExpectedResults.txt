@@ -1,0 +1,7 @@
+Enter a string: Original string: JavA
+Trimmed string: JavA
+Uppercase: JAVA
+Lowercase: java
+Length: 4
+Replaced 'a' with 'o': JovA
+Substring (excluding first and last character): av

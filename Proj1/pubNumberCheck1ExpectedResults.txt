@@ -1,0 +1,2 @@
+Enter a number: The number is non-negative.
+The number is odd.

@@ -1,0 +1,6 @@
+Choose an option:
+1. Check if a string is a palindrome
+2. Sum the digits of an integer
+3. Convert a string to uppercase and reverse it
+4. Exit
+Input? Exiting program. Have a great day!
