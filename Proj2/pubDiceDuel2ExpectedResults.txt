@@ -1,0 +1,24 @@
+How many rounds? Round 1
+Player 1 rolled: 3 and 5
+Player 2 rolled: 4 and 5
+Player 1 score: 8
+Player 2 score: 9
+Round 2
+Player 1 rolled: 4 and 4
+Player 2 rolled: 2 and 5
+Player 1 score: 16
+Player 2 score: 16
+Round 3
+Player 1 rolled: 1 and 2
+Player 2 rolled: 3 and 3
+Player 1 score: 19
+Player 2 score: 22
+Round 4
+Player 1 rolled: 3 and 3
+Player 2 rolled: 3 and 1
+Player 1 score: 25
+Player 2 score: 26
+Final Score:
+Player 1: 25
+Player 2: 26
+Player 2 wins!

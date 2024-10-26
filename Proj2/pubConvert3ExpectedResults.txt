@@ -1,0 +1,1 @@
+Enter base 10 number: Enter new base: Enter new base: Value: 1151
